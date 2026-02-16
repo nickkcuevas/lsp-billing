@@ -17,3 +17,4 @@ pip install -r requirements.txt
 python main.py
 
 
+Link to the Medium Article https://nickkkcuevas.medium.com/taking-the-l-on-solid-a-python-example-b6056d969e1e
