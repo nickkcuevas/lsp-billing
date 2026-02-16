@@ -4,8 +4,9 @@ This repo demonstrates the Liskov Substitution Principle (LSP) using a billing +
 
 First, you will need to create your virtual environment:
 
-virtualenv venv
-source venv/bin/activate
+$ virtualenv venv
+$ source venv/bin/activate
+
 
 ## Run the dependencies
 
